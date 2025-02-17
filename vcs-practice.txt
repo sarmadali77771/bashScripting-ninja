@@ -1,7 +1,6 @@
 Monday -> Login page code is working fine
 Tuesday -> Sign-up page code is working fine
 wednesday -> MF verification page code is working fine
-Thursday -> Profile update feature (code conflict)
 Friday -> Membership payment
 Saturday -> Payment failed
 
