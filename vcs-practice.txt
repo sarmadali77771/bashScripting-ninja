@@ -1,2 +1,3 @@
 Monday -> Login page code is working fine
+Tuesday -> Sign-up page code is working fine
 
