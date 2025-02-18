@@ -1,6 +1,0 @@
-Monday -> Login page code is working fine
-Tuesday -> Sign-up page code is working fine
-wednesday -> MF verification page code is working fine
-Friday -> Membership payment
-Saturday -> Payment failed
-
